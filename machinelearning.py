@@ -11,7 +11,8 @@ cachorro1 = [0, 1, 1]
 cachorro2 = [1, 0, 1]
 cachorro3 = [1, 1, 1]
 
-#1 => porco, 0 => cachorro
+#1 => porco
+#0 => cachorro
 treino_x = [porco1, porco2, porco3, cachorro1, cachorro2, cachorro3]
 treino_y = [1, 1, 1, 0, 0 ,0 ] #labels (etiquetas)
 
