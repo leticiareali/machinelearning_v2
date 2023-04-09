@@ -96,4 +96,4 @@ for chave, valor in informacoes_armaduras.items():
     print('Ano de lançamento:', valor["ano"])
     print('Nivel de proteção:', valor["proteçao"])
     print('Potencia de fogo:', valor["potencia de fogo:"])
-    print('') #linha em branco para separar as informações de cada armadura
+    print('') #linha em branco para separar as informações de cada armadura.
